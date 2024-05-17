@@ -6,6 +6,7 @@ Crie um script que pergunte o nome e a idade do usuário.
 Após isso, o script deve imprimir uma mensagem que diga:
 
     "Hello Love, seu nome é [nome]! Você tem [idade] anos."
+    
 '''
 
 first_name = input('Qual é o seu nome? ')

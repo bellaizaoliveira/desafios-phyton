@@ -10,6 +10,7 @@ Temperaturas - Cozimento
 140ºF ou 60ºC - Medium (Ao ponto)
 150ºF ou 65ºC - Medium well (Ao ponto para o bem)
 160ºF ou 71ºC - Well done (Bem Passada)
+
 '''
 
 tem_cel = int(input('Qual é a temperatura da carne? '))

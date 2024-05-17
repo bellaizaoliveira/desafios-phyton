@@ -6,7 +6,8 @@ guardar o número inteiro 10 e 'num2' que deve guardar
 o número de ponto flutuante 3.5.
 
 Após isso, deve ser impresso na tela o resultado da divisão
-de 'num1' por 'num2'
+de 'num1' por 'num2'.
+
 '''
 
 num1 = 10

@@ -1,7 +1,8 @@
 # Modificando Listas
 
 '''
-Deverá ser impresso o primeiro e o último elemento da lista
+Deverá ser impresso o primeiro e o último elemento da lista.
+
 '''
 
 frutas = ['Maçã', 'Banana', 'Manga', 'Uva']

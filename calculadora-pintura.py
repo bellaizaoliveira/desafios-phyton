@@ -6,7 +6,8 @@ para pintar uma parede. Ousuário deverá fonrcer as seguintes
 informações: Rendimento, altura e largura.
 
 O programa deve mostrar na tela a mensagem  "Você necessita de X
-latas de tinta"
+latas de tinta".
+
 '''
 
 rendimento = int(input('Qual é o rendimento da lata de tinta? '))

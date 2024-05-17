@@ -6,6 +6,7 @@ Será criado um script que solicite ao usuário dois números.
 Em seguida, o script deve imprimir a soma, a subtração, a multiplicação, 
 a divisão (resultado decimal) e exponênciação (primeiro número elevado ao 
 segundo número) desses dois números.
+
 '''
 
 # Pedir ao usuário que digite dois números

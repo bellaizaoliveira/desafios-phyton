@@ -7,6 +7,7 @@ para 'Morango'.
 Após isso, adicione a fruta 'Abacaxi' ao final da lista.
 
 Por fim, imprima a lista modificada na tela.
+
 '''
 
 frutas = ['Maçã', 'Banana', 'Manga', 'Uva']

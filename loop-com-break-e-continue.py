@@ -6,6 +6,7 @@ mas pare de imprimir assim que chegar a 5 usando o comando 'break'.
 
 Em seguida, crie um segundo loop que imprima os números de 1 a 10,
 mas pule a impressão do número 5 usando o comando 'continue'.
+
 '''
 
 print('Loop com o break: ')
